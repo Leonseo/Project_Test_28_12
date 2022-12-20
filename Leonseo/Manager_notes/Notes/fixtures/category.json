@@ -1,0 +1,35 @@
+[
+  {
+    "model": "Notes.category",
+    "pk": 1,
+    "fields": {
+      "category_text": "Ссылка",
+      "category_user": 1
+    }
+  },
+  {
+    "model": "Notes.category",
+    "pk": 2,
+    "fields": {
+      "category_text": "Заметка",
+      "category_user": 1
+
+    }
+  },
+  {
+    "model": "Notes.category",
+    "pk": 3,
+    "fields": {
+      "category_text": "Памятка",
+      "category_user": 1
+    }
+  },
+  {
+   "model": "Notes.category",
+    "pk": 4,
+    "fields": {
+      "category_text": "TODO",
+      "category_user": 1
+    }
+  }
+]
